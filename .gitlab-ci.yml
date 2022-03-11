@@ -1,0 +1,3 @@
+include:
+  - project: 'Fortbrasil/devops/gitlab-ci-templates'
+    file: '.gitlab-ci-docker-jobs.yml'
